@@ -1,0 +1,12 @@
+{
+  "projectName": "ESP32-Learning",
+  "creationDate": "2025-10-02",
+  "lastUpdateDate": "2025-10-02",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "updateDate": "2025-10-02",
+      "info": "初始版本，包含核心功能"
+    }
+  ]
+}
