@@ -1,12 +1,17 @@
 {
   "projectName": "ESP32-Learning",
   "creationDate": "2025-10-02",
-  "lastUpdateDate": "2025-10-02",
+  "lastUpdateDate": "2025-11-09",
   "changelog": [
     {
       "version": "1.0.0",
       "updateDate": "2025-10-02",
       "info": "初始版本，包含核心功能"
+    },
+    {
+      "version": "1.0.1",
+      "updateDate": "2025-11-09",
+      "info": "完成数字GPIO的内容,并划分了讲解大纲以及引脚分布"
     }
   ]
 }
